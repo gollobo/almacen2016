@@ -7,7 +7,7 @@ public class SufflingDeck {
 		int [] DeckOfCards = new int [40]; //La baraja de cartas con 40 cartas
 		for (int i=0; i<DeckOfCards.length;i++)
 			DeckOfCards[i]=i+1;
-		int top =0; //numero en el que empieza a contar para repartir
+		int top =0; //numdsdsdsero en el que empieza a contar para repartir
 		int [] dealedCards; 
 		int option;
 		do{
