@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class SufflingDeck {
-
+	//esto es nuevo
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int [] DeckOfCards = new int [40]; //La baraja de cartas con 40 cartas
@@ -21,7 +21,7 @@ public class SufflingDeck {
 					break;
 			}
 		}while(option!=4);
-		System.out.println("Cobarde");
+		System.out.println("Que cobarde cobarde");
 		}
 	public static void suffling(int [] deck){ //Reparte 5 cartas
 			for (int i=0;i<deck.length;i++){ 
