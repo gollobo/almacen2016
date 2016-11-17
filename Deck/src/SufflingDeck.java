@@ -21,7 +21,7 @@ public class SufflingDeck {
 					break;
 			}
 		}while(option!=4);
-		System.out.println("Que cobarde cobarde");
+		System.out.println("Cobarde cobarde");
 		}
 	public static void suffling(int [] deck){ //Reparte 5 cartas
 			for (int i=0;i<deck.length;i++){ 
